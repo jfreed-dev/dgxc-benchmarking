@@ -33,6 +33,7 @@ Depending on your cluster's job scheduler, ensure the following are met:
     *   Version 22.x or newer
     *   `task/affinity` plugin required for process pinning
     *   [Enroot](https://github.com/NVIDIA/enroot/)
+    *   [Pyxis](https://github.com/NVIDIA/pyxis)
 
 
 ## Quick Start Guide
