@@ -41,6 +41,13 @@ nsys_analysis_build/
 # Cloned repos
 **/NeMo
 
-# AI agent files
+# AI coding assistants
+CLAUDE.md
+AGENT.md
+AGENTS.md
 GEMINI.md
+CODEX.md
+.claude/
+.gemini/
+.codex/
 plans/
